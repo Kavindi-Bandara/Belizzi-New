@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DOWNLOAD\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\product\\product.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\product\\product.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\product\\product.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\product\\product.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\add\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\add\\addproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\add\\addproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\add\\addproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\bilizzi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\bilizzi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\signup\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\signup\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\signup\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\signup\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\login\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\login\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\login\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\login\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\home\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\home\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\home\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\home\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\firstpage\\firstpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\firstpage\\firstpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\firstpage\\firstpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\firstpage\\firstpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|c:\\users\\download\\desktop\\desktop\\bilizzi\\bilizzi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{477F46CF-B2D0-42DE-9045-49153E106A00}|Bilizzi\\Bilizzi.csproj|solutionrelative:bilizzi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BindingExpression.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\428ed901cd29bd8239cdbf4b60a3d3ec68c3da78ee931043014fc1fae4ee1a77\\BindingExpression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMBAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:22:24.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\SignUp\\SignUp.xaml",
+              "RelativeDocumentMoniker": "Bilizzi\\SignUp\\SignUp.xaml",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\SignUp\\SignUp.xaml",
+              "RelativeToolTip": "Bilizzi\\SignUp\\SignUp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T11:58:30.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.xaml",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Product\\Product.xaml",
+              "RelativeDocumentMoniker": "Bilizzi\\Product\\Product.xaml",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Product\\Product.xaml",
+              "RelativeToolTip": "Bilizzi\\Product\\Product.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-15T17:13:36.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Product\\Product.xaml.cs",
+              "RelativeDocumentMoniker": "Bilizzi\\Product\\Product.xaml.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Product\\Product.xaml.cs",
+              "RelativeToolTip": "Bilizzi\\Product\\Product.xaml.cs",
+              "ViewState": "AgIAABsAAAAAzszMzMwHwCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:59:55.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\SignUp\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "Bilizzi\\SignUp\\SignUp.xaml.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\SignUp\\SignUp.xaml.cs",
+              "RelativeToolTip": "Bilizzi\\SignUp\\SignUp.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:06:56.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Home\\Home.xaml",
+              "RelativeDocumentMoniker": "Bilizzi\\Home\\Home.xaml",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Home\\Home.xaml",
+              "RelativeToolTip": "Bilizzi\\Home\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T06:14:12.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Bilizzi\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\DatabaseHelper.cs",
+              "RelativeToolTip": "Bilizzi\\DatabaseHelper.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwGcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:47:23.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Login\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Bilizzi\\Login\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Login\\Login.xaml.cs",
+              "RelativeToolTip": "Bilizzi\\Login\\Login.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:54:34.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Home\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "Bilizzi\\Home\\Home.xaml.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Home\\Home.xaml.cs",
+              "RelativeToolTip": "Bilizzi\\Home\\Home.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA2wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:58:05.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bilizzi.csproj",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Bilizzi.csproj",
+              "RelativeDocumentMoniker": "Bilizzi\\Bilizzi.csproj",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Bilizzi.csproj",
+              "RelativeToolTip": "Bilizzi\\Bilizzi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T16:46:12.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProduct.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Add\\AddProduct.xaml.cs",
+              "RelativeDocumentMoniker": "Bilizzi\\Add\\AddProduct.xaml.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Add\\AddProduct.xaml.cs",
+              "RelativeToolTip": "Bilizzi\\Add\\AddProduct.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:37:59.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Add\\AddProduct.xaml",
+              "RelativeDocumentMoniker": "Bilizzi\\Add\\AddProduct.xaml",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Add\\AddProduct.xaml",
+              "RelativeToolTip": "Bilizzi\\Add\\AddProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T14:37:11.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Login\\Login.xaml",
+              "RelativeDocumentMoniker": "Bilizzi\\Login\\Login.xaml",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\Login\\Login.xaml",
+              "RelativeToolTip": "Bilizzi\\Login\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T06:24:32.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FirstPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\FirstPage\\FirstPage.xaml.cs",
+              "RelativeDocumentMoniker": "Bilizzi\\FirstPage\\FirstPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\FirstPage\\FirstPage.xaml.cs",
+              "RelativeToolTip": "Bilizzi\\FirstPage\\FirstPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:52:26.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FirstPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\FirstPage\\FirstPage.xaml",
+              "RelativeDocumentMoniker": "Bilizzi\\FirstPage\\FirstPage.xaml",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\FirstPage\\FirstPage.xaml",
+              "RelativeToolTip": "Bilizzi\\FirstPage\\FirstPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T16:47:20.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\App.xaml",
+              "RelativeDocumentMoniker": "Bilizzi\\App.xaml",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\App.xaml",
+              "RelativeToolTip": "Bilizzi\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T16:44:06.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bilizzi\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\MainWindow.xaml",
+              "RelativeToolTip": "Bilizzi\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T16:27:35.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Bilizzi\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\AssemblyInfo.cs",
+              "RelativeToolTip": "Bilizzi\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:44:48.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bilizzi\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\Desktop\\Bilizzi\\Bilizzi\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Bilizzi\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T16:27:32.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
