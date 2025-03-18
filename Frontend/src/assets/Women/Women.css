@@ -1,0 +1,52 @@
+#font8{
+    text-align: center;
+    color:black;
+    margin-top: 0px;
+    padding-top:20px;
+}
+
+.div3{
+    width:1899px;
+    height:auto;
+    /*background-image: url('./src/assest/Image/back1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    padding-bottom: 0px;
+    background-color: rgb(144, 138, 138);
+}
+
+#font9{
+    color:black;
+    margin-left: 50px;
+    margin-top:20px;
+    font-size:large;
+}
+
+.card{
+    border-radius: 10px;
+    box-shadow:5px 5px 5px rgba(70, 70, 70, 0.158);
+    background-color: rgb(174, 167, 157);
+    padding:50px;  
+    margin:100px;
+    margin-left:80px;
+    text-align:center;
+    max-width:255px;
+    display:inline-block;
+}
+
+.card .card-image{
+    max-width:80%;
+    height:200px;
+    margin-left: 10px;
+    margin-top:0px;
+}
+
+#font10{
+    color:black;
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.search-container{
+    margin-left: 60%;
+}

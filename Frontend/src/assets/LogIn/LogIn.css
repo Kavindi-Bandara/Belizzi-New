@@ -1,0 +1,101 @@
+.Container{
+    width:1920px;
+    height:auto;
+    background-image: url('./src/assest/Image/back2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+    margin:0px;
+    background-color: rgb(144, 138, 138);
+}
+
+*{
+  margin:0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper{
+  width:650px;
+  height:879px;
+  background:transparent;
+  border:2px solid rgb(5, 5, 5);
+  backdrop-filter:blur(30px);
+  color:#0b0b0b;
+  padding: 10px 0px;
+  margin-left: 300px;
+  border-radius: 40px;
+}
+
+.wrapper h1{
+  font-size:36px;
+  text-align:center;
+  margin-top: 80px;
+}
+
+.wrapper .input-box{
+  position:relative;
+  width: 470px;
+  height:60px;
+  margin-left:-30px;
+  margin-bottom:90px;
+}
+
+.input-box input{
+  width:100%;
+  height:100%;
+  background:transparent;
+  border:none;
+  outline:none;
+  border:2px solid rgba(10, 10, 10, 0.996);
+  border-radius:40px;
+  font-size: 20px;
+  color: #030303;
+  padding-left:30px;
+}
+
+.input-box input::placeholder{
+  color:#000000;
+}
+
+.input-box .icon{
+  position:absolute;
+  left:420px;
+  top: 40%;
+  transform:translateY(-40%);
+  font-size: 20px ;
+}
+
+.wrapper button{
+  width:470px;
+  height: 45px;
+  background-color: #000000;
+  border: none;
+  outline: none;
+  border-radius: 40px;
+  box-shadow: 0 0 10px rgba(0,0,0,.1);
+  cursor: pointer;
+  font-size: 18px;
+  color: rgb(250, 249, 249);
+  font-weight: 700;
+  margin-left:-30px;
+  margin-top: 80px;
+}
+
+.font9{
+  font-size:larger;
+  font-weight:800px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.Icon{
+  position:absolute;
+  right:850px;
+  top:800px;
+  transform:translateY(-30%);
+  font-size:50px;
+  color:black;
+  cursor: pointer;
+  
+}

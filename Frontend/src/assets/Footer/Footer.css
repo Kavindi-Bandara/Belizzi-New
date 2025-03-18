@@ -1,0 +1,61 @@
+.T3{
+    background-color:#002522;
+    width:1899px;
+    height:350px;
+    margin: 0px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+#font3{
+    padding-left: 50px;
+    color:white;
+    font-size:20px;
+    font-style: normal;
+}
+
+#font4{
+    padding-top: 10px;
+    padding-left: 50px;
+    color:white;
+    font-size:medium;
+    font-style: normal;
+    cursor: pointer;
+    font-weight:80;
+}
+
+.logo2{
+    font-family: 'Arial', sans-serif; /* Use a clean font */
+    color: white;
+    padding-left: 79px;
+    padding-right: 0px;
+}
+
+.logo-main2 {
+    font-size: 60px; 
+    font-weight: bold;
+    font-family:Cursive;
+}
+
+.logo-sub2 {
+    display: block;
+    font-size: 30px; /* Adjust sub-logo size */
+    font-weight: bold;
+    margin-top: -20px; /* Adjust spacing between text */
+    margin-left:30px;
+}
+
+.icon4{
+    /*position:absolute;*/
+    font-size: 35px;
+    top:5640px;
+    color:white;
+    padding:0px;
+    margin-left: 0px;
+}
+
+.div1{
+    margin-top: 55px;
+    margin-left:45px;
+    /* margin-right:50px;*/
+}

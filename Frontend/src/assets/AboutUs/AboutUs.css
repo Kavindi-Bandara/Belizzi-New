@@ -1,0 +1,29 @@
+.div6{
+    height: 780px;
+    background-color: rgb(200, 231, 225);
+    margin: 0px;
+    width:1899px
+
+}
+
+.div6 h1{
+    color:black;
+    padding-left: 500px;
+    padding-top: 50px;
+}
+
+.div6 p{
+    font-size: medium;
+    color:black;
+    padding-left: 100px;
+    padding-right: 800px;
+    padding-top: 80px;
+    font-size:23px;
+}
+
+img{
+    margin-left:1300px;
+    height:650px;
+    width:400px;
+    margin-top:-490px;
+}
